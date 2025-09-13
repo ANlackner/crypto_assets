@@ -1,0 +1,16 @@
+{
+  "name": "What's going on",
+  "symbol": "WHT",
+  "description": "The most trending 'what's going on' meme on TikTok right now – now immortalized as a Solana meme coin.",
+  "image": "https://raw.githubusercontent.com/ANlackner/crypto_assets/main/Design%20ohne%20Titel.png",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ANlackner/crypto_assets/main/Design%20ohne%20Titel.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

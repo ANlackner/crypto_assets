@@ -3,6 +3,7 @@
   "symbol": "WHT",
   "description": "The most trending 'what's going on' meme on TikTok right now.",
   "image": "https://raw.githubusercontent.com/ANlackner/crypto_assets/main/Design%20ohne%20Titel.png",
+  "external_url": "",
   "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
@@ -12,6 +13,12 @@
         "type": "image/png"
       }
     ],
-    "category": "image"
+    "category": "image",
+    "creators": [
+      {
+        "address": "EewWYas4M6EQgrkhth4H4x3c6CSPKfumgAjdgg7fJ6qZ",
+        "share": 100
+      }
+    ]
   }
 }
